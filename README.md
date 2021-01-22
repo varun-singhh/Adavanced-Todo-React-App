@@ -9,7 +9,7 @@ Many Extra packages are used in this todo app like
 - ✔️ uuid: For pravidong unique Id to each todo task
 - ✔️ bootstrap: this is needed to run reactstrap components
 
-###### To install thes packages run the folowing command:   `npm i reactstrap bootstrap uuid react-icons`
+## To install thes packages run the folowing command:   `npm i reactstrap bootstrap uuid react-icons`
 
 ### `npm start`
 

@@ -31,6 +31,5 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ✅Feel Free to add more Features to this todo, Just Raise an Issue and then create a pull request to get your pull request merged. if you like this concept of Todo With help of Context API and Local Storage don't forget to ⭐(star) this repository.
 
-🚩In case of any Issues, Create new React App by `npx create-react-app appname` and install all dependencies, and then replace src file of this repo with newly created app.
-
+🚩In case of any Issues while running the project, Create new React App by `npx create-react-app appname` and install all dependencies `npm i reactstrap bootstrap uuid react-icons`, and then replace src file of this repo with newly created app.
 
